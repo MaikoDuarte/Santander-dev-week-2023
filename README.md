@@ -1,4 +1,4 @@
-![image](https://github.com/MaikoDuarte/Santander-dev-week-2023/assets/46424572/3407bcda-a675-4437-9dd6-d7dd5f450c5b)# Santander Dev Week 2023
+# Santander Dev Week 2023
 Java Restful API criada para a Santander Dev Week
 
 ## Diagrama de Classes
